@@ -1,0 +1,29 @@
+{
+    "text": "Dans le cadre de sa communication périodique, SALAFIN présente ses principaux indicateurs d’activité au titre du 1er trimestre 2024 :\nMMoonnttaannttss ((KKDDHH)) VVaarriiaattiioonnss ((%%))\nTT11 22002244 TT11 22002233 TT44 22002233 VVss.. TT11//2233 VVss.. TT44//2233\nTotal Crédits distribués / production nette 247 127 268 774 - -8,1 % -\nPrêts personnels 125 977 147 491 - -14,6 % -\nPrêts automobiles 121 150 121 282 - -0,1 % -\nEncours financiers 2 989 460 - 3 053 470 - -2,1 %\nOpérations de crédit (ODC) 2 320 102 - 2 362 563 - -1,8 %\nLocation avec option d’achat (LOA) 669 358 - 690 907 - -3,1 %\nEncours endettement 1 843 822 - 1 955 027 - -5,7 %\nPNB 93 236 95 134 - -2,0 % -\nIndicateurs d’activité du 1er trimestre 2024\nDans le cadre de la mise en œuvre de la feuille de route commerciale initiée au cours du 1er trimestre 2023, SALAFIN poursuit ses actions de réorganisation\ndes activités commerciales, de repositionnement et d’amélioration de l’efficacité opérationnelle. Ces initiatives visent à accompagner le développement des\nmarchés ciblés, de renforcer la proximité avec les partenaires et d’assurer une croissance pérenne et rentable. A ce titre, les choix de repositionnement opérés\nau cours de l’année ont permis de réaliser un niveau de rendement de la production de +200 bps par rapport à la même période de l’exercice précédent.\nSALAFIN a réalisé au titre du 1er trimestre 2024 une production nette de 247 MDH, en repli de -8,1%. Ces réalisations sont impactées principalement par le retrait\ndu segment des crédits personnels qui affiche une baisse de -14,6% à 126 MDH par rapport au premier trimestre 2023 au moment où les crédits automobiles\nréalisent une performance similaire à celle du 1er trimestre de l’exercice écoulé, soit 121 MDH.\nLes encours financiers ont reculé de -2,1% par rapport au quatrième trimestre 2023 pour s’élever à 2 989 MDH, répartis entre un encours ODC (Opérations De\nCrédit) pour un montant de 2 320 MDH (-1,8%) et un encours LOA (Location avec Option d’Achat) pour un montant de 669 MDH (-3,1%).\nLe Produit Net Bancaire ressort à 93 MDH en baisse de -2,0% comparativement à la même période de l’exercice précédent.\nRetrouvez toutes les informations sur www.salafin.com",
+    "tables": [
+        [
+            {
+                "": "",
+                "MMoonnttaannttss ((KKDDHH))": "TT11 22002244",
+                "null": "VVss.. TT44//2233",
+                "VVaarriiaattiioonnss ((%%))": "VVss.. TT11//2233"
+            },
+            {
+                "": "Total Crédits distribués / production nette",
+                "MMoonnttaannttss ((KKDDHH))": "247 127",
+                "null": "-",
+                "VVaarriiaattiioonnss ((%%))": "-8,1 %"
+            }
+        ],
+        [],
+        [
+            {
+                "Encours endettement": "PNB",
+                "1 843 822": "93 236",
+                "-": "-2,0 %",
+                "1 955 027": "-",
+                "-5,7 %": "-"
+            }
+        ]
+    ]
+}
