@@ -1,0 +1,33 @@
+{
+    "text": "COMMUNICATION TRIMESTRIELLE : T2 2022\nINDICATEURS D'ACTIVITE\nDurant le 1er semestre de l'année 2022, DELATTRE LEVIVIER MAROC a réalisé un chiffre d'affaires\nconsolidé de 34 millions de dirhams contre 60 millions de dirhams à la même période en 2021.\nLe chiffre d'affaires comptes sociaux des six premiers mois de 2022, impacté par une reprise encore faible,\nest de 8,4 millions de dirhams contre 27,8 millions de dirhams au 30 Juin 2021.\nChiffre d'affaires (en kdh) T2 2022 T2 2021 S1 2022 S1 2021\nChiffre d'affaires consolidé 25,591 30,189 33,547 59,723\nChiffre d'affaires DLM comptes sociaux 6,346 14,688 8,442 27,835\nINDICATEURS FINANCIERS\nEndettement\nA la fin du 1er semestre 2022, le niveau d'endettement de DLM se stitue à 268 millions de dirhams\ncontre 329 millions de dirhams à la même période de 2021, soit une amélioration de 62 millions\nde dirhams.\nEndettement (en kdh) T2 2022 T2 2021\nEnde�ement consolidé 272,120 335,857\nEnde�ement DLM comptes sociaux 268,035 329,889\nInvestissements\nLe groupe n'a pas engagé d'investissement significatif pendant la période.",
+    "tables": [
+        [
+            {
+                "Chiffre d'affaires (en kdh)": "Chiffre d'affaires consolidé",
+                "T2 2022": "25,591",
+                "T2 2021": "30,189",
+                "S1 2022": "33,547",
+                "S1 2021": "59,723"
+            },
+            {
+                "Chiffre d'affaires (en kdh)": "Chiffre d'affaires DLM comptes sociaux",
+                "T2 2022": "6,346",
+                "T2 2021": "14,688",
+                "S1 2022": "8,442",
+                "S1 2021": "27,835"
+            }
+        ],
+        [
+            {
+                "Endettement (en kdh)": "Ende�ement consolidé",
+                "T2 2022": "272,120",
+                "T2 2021": "335,857"
+            },
+            {
+                "Endettement (en kdh)": "Ende�ement DLM comptes sociaux",
+                "T2 2022": "268,035",
+                "T2 2021": "329,889"
+            }
+        ]
+    ]
+}
